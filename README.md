@@ -1,4 +1,4 @@
-# Hi there 👋, I'm W.A.G. Sachinthani
+# Hi there 👋, I'm Gimhani Sachinthani
 
 ## About Me
 
@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [gimhanisachinthani6@gmail.com](mailto:gimhanisachinthani6@gmail.com)
-- ⚡ Fun fact: I love developing websites, CMS, and exploring new technologies
+- ⚡ Fun fact: I love developing websites, and exploring new technologies
 
 ## Skills and Technologies
 
