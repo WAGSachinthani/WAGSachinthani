@@ -67,24 +67,9 @@ AI-powered Receipt Forgery Detection Framework using OCR and Image Forensics.
 ### 🎬 MovieFinder
 Movie search application built with modern frontend technologies.
 
-### 🌍 Thrill of Ceylon
-Tourism platform designed to promote Sri Lankan destinations.
-
-### 🚗 Tesla UI Clone
-High-fidelity Tesla website clone focused on responsive design.
-
 ### 📄 Invoice Generator
 Business tool for generating customized invoices.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WAGSachinthani&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAGSachinthani&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
